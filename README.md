@@ -1,4 +1,4 @@
-# This is a emacs version of the PHPStorm theme [google-developer-tibau-theme](https://github.com/richellyitalo/google-developer-tibau-theme)
+# This is an emacs version of the PHPStorm theme [google-developer-tibau-theme](https://github.com/richellyitalo/google-developer-tibau-theme)
 
 ## PHP code sample
 ![](https://raw.githubusercontent.com/Ldnz/google-developer-tibau-emacs-theme/master/screenshots/php.png)
